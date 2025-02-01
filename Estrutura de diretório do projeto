@@ -1,0 +1,7 @@
+Análise-de-Sentimentos-Azure/
+├── data/
+│   └── sample_texts.txt
+├── src/
+│   └── sentiment_analysis.py
+├── .gitignore
+├── README.md
